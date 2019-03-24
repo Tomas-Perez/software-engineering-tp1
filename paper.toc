@@ -1,0 +1,22 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Consigna}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Enunciado}{1}{subsection.1.1}
+\contentsline {paragraph}{}{1}{section*.2}
+\contentsline {paragraph}{}{1}{section*.3}
+\contentsline {paragraph}{}{1}{section*.4}
+\contentsline {subsection}{\numberline {1.2}Entrega}{1}{subsection.1.2}
+\contentsline {paragraph}{}{1}{section*.5}
+\contentsline {section}{\numberline {2}Resoluci\IeC {\'o}n}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Aclaraciones}{2}{subsection.2.1}
+\contentsline {paragraph}{Unidad de pago}{2}{section*.6}
+\contentsline {paragraph}{Unidad de ingrediente}{2}{section*.7}
+\contentsline {paragraph}{Precios}{2}{section*.8}
+\contentsline {paragraph}{Vasos}{2}{section*.9}
+\contentsline {paragraph}{expectPaymentOf}{2}{section*.10}
+\contentsline {paragraph}{Reportes}{2}{section*.11}
+\contentsline {paragraph}{Alarmas de reposici\IeC {\'o}n}{2}{section*.12}
+\contentsline {subsection}{\numberline {2.2}Diagrama de clases de m\IeC {\'a}quina de caf\IeC {\'e}}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Diagrama de secuencia de venta de caf\IeC {\'e}}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Caso de uso de control centralizado}{7}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Diagrama de clases de m\IeC {\'o}dulo central}{8}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Diagrama de secuencia de control centralizado}{9}{subsection.2.6}
